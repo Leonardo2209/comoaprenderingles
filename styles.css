@@ -36,9 +36,13 @@ body {
     text-align: center;
 }
 
-h1 {
+h1{
     margin-bottom: 20px;
     font-weight: 700;
+}
+
+.main {
+    font-size: 22px;
 }
 
 .contact-info {
